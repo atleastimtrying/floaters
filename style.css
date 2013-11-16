@@ -1,0 +1,27 @@
+
+
+* {
+  margin:0;
+  padding:0;
+}
+
+html{
+  font-family:sans-serif;
+  font-size:24px;
+  color:#3e606f;
+}
+
+header,footer{
+  background:#d1dbbd;
+  text-align:left;
+  padding:20px;
+  width:100%;
+  box-sizing:border-box;
+}
+
+#container{
+}
+
+footer a{
+  color:inherit;
+}
